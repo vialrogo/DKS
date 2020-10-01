@@ -1,4 +1,4 @@
 DKS
 ===
 
-Knowledge Sharing. The 'D' is silent. :D
+Knowledge Sharing. The 'D' is silent!
