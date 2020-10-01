@@ -1,3 +1,3 @@
 DKS
 
-Knowledge Sharing
+Knowledge Sharing. The 'D' is silent.
