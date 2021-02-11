@@ -9,3 +9,21 @@
 # *****
 # ******
 # ```
+
+
+n = int(input("Número: "))
+piso = 1
+
+while piso <= n:
+    print(piso*"*")
+    piso += 1
+
+
+# # Usando while anidados
+# while piso <= n:
+#     estrela = 1
+#     while estrela <= piso:
+#        print("*", end='')
+#        estrela += 1
+#     print()
+#     piso += 1

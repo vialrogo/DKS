@@ -9,3 +9,11 @@
 #     **
 #      *
 # ```
+
+n = int(input("Número: "))
+piso = n
+
+while piso > 0:
+    print((n-piso)*" ", end="")
+    print(piso*"*")
+    piso -= 1
